@@ -1,0 +1,11 @@
+{
+  "name": "InfraScore",
+  "version": "0.1.0",
+  "title": "Infra Score",
+  "author": "You",
+  "contact": "",
+  "homepage": "",
+  "factorio_version": "0.16",
+  "dependencies": ["base >= 0.16"],
+  "description": "This mod adds an Infra Score to multi-player games."
+}
